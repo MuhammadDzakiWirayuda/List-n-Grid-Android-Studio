@@ -1,5 +1,8 @@
 package com.example.koleksibukunyaocong
 
+// Muhammad Dzaki Wirayuda | NIM: 23523197
+// Ahmad Aiman Zumar Prawirosunoto | NIM: 23523112
+// Raditya Pratama | NIM: 23523169
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
